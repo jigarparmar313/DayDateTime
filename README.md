@@ -20,7 +20,7 @@ A simple, elegant web application that displays the current time, date, and day 
 
 ## 🚀 Live Demo
 
-Check out the live demo of this project [here](your_live_demo_link).
+Check out the live demo of this project [here](https://uptodatewatch.netlify.app).
 
 ## 🛠️ Installation
 
