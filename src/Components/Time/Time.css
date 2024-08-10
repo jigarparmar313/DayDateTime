@@ -1,0 +1,12 @@
+.digital-watch {
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    letter-spacing: 2px;
+}

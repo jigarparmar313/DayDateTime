@@ -1,0 +1,13 @@
+.digital-day {
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffffff;
+    background-color: #28a745;
+    /* Green background */
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    letter-spacing: 1.5px;
+}
